@@ -1,3 +1,6 @@
+Demo 
+https://drive.google.com/file/d/1zcruq6xuBWaXQX-Wpvpceqja6u7h0VO1/view?usp=sharing
+---------------
 # AI Text Summarizer Chrome Extension
 
 A Chrome extension that uses Google AI (Gemini) to summarize selected text on any webpage.
